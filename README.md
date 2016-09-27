@@ -4,6 +4,8 @@ Java 7 (JRE 1.7) tai Java 8 (JRE 1.8)<br>
 apktool<br>
 signapk<br>
 Notepad tai Notepad++ (tai joku muu ohjelma millä voit muokata tekstitiedostoja)<br>
+<h3>Huom!</h3> <p>Lisätty työkalu, jolla voi tehdä kohdat 2. ja 3. automaattisesti tiputtamalla kansion työkalun päälle.</p>
+
 <h2>Ohjeet</h2>
 <h3>1. Puretaan APK</h3>
 ```txt
