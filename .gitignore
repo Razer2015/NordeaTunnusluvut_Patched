@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Nordea_Tunnusluvut_Patcher/bin/Debug
+/Nordea_Tunnusluvut_Patcher/obj/Debug
+/.vs/Nordea_Tunnusluvut_Patcher/v14
